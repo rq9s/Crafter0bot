@@ -1,4 +1,5 @@
-pip
-discord.py
+discord
+asyncio
+pymoe
 youtube_dl
-git+https://github.com/Nanomotion/overwatch.py.git
+pip
