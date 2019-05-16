@@ -14,7 +14,7 @@ import os
 
 
 
-client = commands.Bot(command_prefix="_")
+client = commands.Bot(command_prefix=".")
 
 player_dict = dict()
 
